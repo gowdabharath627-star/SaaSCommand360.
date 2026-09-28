@@ -1,0 +1,402 @@
+[
+  {
+    "subscription_id": "sub_acc_001",
+    "account_id": "acc_001",
+    "plan": "Professional",
+    "start_date": "2026-03-19T04:19:43.272953+00:00",
+    "status": "active",
+    "mrr": 999.0
+  },
+  {
+    "subscription_id": "sub_acc_002",
+    "account_id": "acc_002",
+    "plan": "Enterprise Plus",
+    "start_date": "2026-06-03T04:19:43.272953+00:00",
+    "status": "active",
+    "mrr": 7499.0
+  },
+  {
+    "subscription_id": "sub_acc_003",
+    "account_id": "acc_003",
+    "plan": "Enterprise Plus",
+    "start_date": "2026-08-27T04:19:43.272953+00:00",
+    "status": "active",
+    "mrr": 7499.0
+  },
+  {
+    "subscription_id": "sub_acc_004",
+    "account_id": "acc_004",
+    "plan": "Enterprise",
+    "start_date": "2026-07-31T04:19:43.272953+00:00",
+    "status": "active",
+    "mrr": 3499.0
+  },
+  {
+    "subscription_id": "sub_acc_005",
+    "account_id": "acc_005",
+    "plan": "Starter",
+    "start_date": "2026-04-23T04:19:43.272953+00:00",
+    "status": "active",
+    "mrr": 299.0
+  },
+  {
+    "subscription_id": "sub_acc_006",
+    "account_id": "acc_006",
+    "plan": "Starter",
+    "start_date": "2026-06-30T04:19:43.272953+00:00",
+    "status": "past_due",
+    "mrr": 299.0
+  },
+  {
+    "subscription_id": "sub_acc_007",
+    "account_id": "acc_007",
+    "plan": "Enterprise",
+    "start_date": "2026-06-17T04:19:43.272953+00:00",
+    "status": "active",
+    "mrr": 3499.0
+  },
+  {
+    "subscription_id": "sub_acc_008",
+    "account_id": "acc_008",
+    "plan": "Enterprise",
+    "start_date": "2026-03-07T04:19:43.272953+00:00",
+    "status": "active",
+    "mrr": 3499.0
+  },
+  {
+    "subscription_id": "sub_acc_009",
+    "account_id": "acc_009",
+    "plan": "Enterprise Plus",
+    "start_date": "2026-03-30T04:19:43.272953+00:00",
+    "status": "active",
+    "mrr": 7499.0
+  },
+  {
+    "subscription_id": "sub_acc_010",
+    "account_id": "acc_010",
+    "plan": "Starter",
+    "start_date": "2026-07-10T04:19:43.272953+00:00",
+    "status": "active",
+    "mrr": 299.0
+  },
+  {
+    "subscription_id": "sub_acc_011",
+    "account_id": "acc_011",
+    "plan": "Starter",
+    "start_date": "2026-02-09T04:19:43.272953+00:00",
+    "status": "active",
+    "mrr": 299.0
+  },
+  {
+    "subscription_id": "sub_acc_012",
+    "account_id": "acc_012",
+    "plan": "Enterprise Plus",
+    "start_date": "2026-01-22T04:19:43.272953+00:00",
+    "status": "active",
+    "mrr": 7499.0
+  },
+  {
+    "subscription_id": "sub_acc_013",
+    "account_id": "acc_013",
+    "plan": "Enterprise Plus",
+    "start_date": "2026-03-04T04:19:43.272953+00:00",
+    "status": "active",
+    "mrr": 7499.0
+  },
+  {
+    "subscription_id": "sub_acc_014",
+    "account_id": "acc_014",
+    "plan": "Starter",
+    "start_date": "2026-05-25T04:19:43.272953+00:00",
+    "status": "active",
+    "mrr": 299.0
+  },
+  {
+    "subscription_id": "sub_acc_015",
+    "account_id": "acc_015",
+    "plan": "Starter",
+    "start_date": "2026-05-10T04:19:43.272953+00:00",
+    "status": "active",
+    "mrr": 299.0
+  },
+  {
+    "subscription_id": "sub_acc_016",
+    "account_id": "acc_016",
+    "plan": "Enterprise",
+    "start_date": "2026-03-08T04:19:43.272953+00:00",
+    "status": "active",
+    "mrr": 3499.0
+  },
+  {
+    "subscription_id": "sub_acc_017",
+    "account_id": "acc_017",
+    "plan": "Professional",
+    "start_date": "2026-02-22T04:19:43.272953+00:00",
+    "status": "active",
+    "mrr": 999.0
+  },
+  {
+    "subscription_id": "sub_acc_018",
+    "account_id": "acc_018",
+    "plan": "Enterprise",
+    "start_date": "2026-08-14T04:19:43.272953+00:00",
+    "status": "active",
+    "mrr": 3499.0
+  },
+  {
+    "subscription_id": "sub_acc_019",
+    "account_id": "acc_019",
+    "plan": "Professional",
+    "start_date": "2026-04-04T04:19:43.272953+00:00",
+    "status": "active",
+    "mrr": 999.0
+  },
+  {
+    "subscription_id": "sub_acc_020",
+    "account_id": "acc_020",
+    "plan": "Enterprise",
+    "start_date": "2026-08-02T04:19:43.272953+00:00",
+    "status": "past_due",
+    "mrr": 3499.0
+  },
+  {
+    "subscription_id": "sub_acc_021",
+    "account_id": "acc_021",
+    "plan": "Enterprise Plus",
+    "start_date": "2026-07-16T04:19:43.272953+00:00",
+    "status": "active",
+    "mrr": 7499.0
+  },
+  {
+    "subscription_id": "sub_acc_022",
+    "account_id": "acc_022",
+    "plan": "Professional",
+    "start_date": "2026-07-28T04:19:43.272953+00:00",
+    "status": "active",
+    "mrr": 999.0
+  },
+  {
+    "subscription_id": "sub_acc_023",
+    "account_id": "acc_023",
+    "plan": "Enterprise",
+    "start_date": "2026-05-24T04:19:43.272953+00:00",
+    "status": "active",
+    "mrr": 3499.0
+  },
+  {
+    "subscription_id": "sub_acc_024",
+    "account_id": "acc_024",
+    "plan": "Enterprise Plus",
+    "start_date": "2026-07-23T04:19:43.272953+00:00",
+    "status": "active",
+    "mrr": 7499.0
+  },
+  {
+    "subscription_id": "sub_acc_025",
+    "account_id": "acc_025",
+    "plan": "Enterprise Plus",
+    "start_date": "2026-08-18T04:19:43.272953+00:00",
+    "status": "active",
+    "mrr": 7499.0
+  },
+  {
+    "subscription_id": "sub_acc_026",
+    "account_id": "acc_026",
+    "plan": "Professional",
+    "start_date": "2026-01-31T04:19:43.272953+00:00",
+    "status": "past_due",
+    "mrr": 999.0
+  },
+  {
+    "subscription_id": "sub_acc_027",
+    "account_id": "acc_027",
+    "plan": "Enterprise",
+    "start_date": "2026-08-26T04:19:43.272953+00:00",
+    "status": "active",
+    "mrr": 3499.0
+  },
+  {
+    "subscription_id": "sub_acc_028",
+    "account_id": "acc_028",
+    "plan": "Starter",
+    "start_date": "2026-07-02T04:19:43.272953+00:00",
+    "status": "active",
+    "mrr": 299.0
+  },
+  {
+    "subscription_id": "sub_acc_029",
+    "account_id": "acc_029",
+    "plan": "Enterprise",
+    "start_date": "2026-08-14T04:19:43.272953+00:00",
+    "status": "active",
+    "mrr": 3499.0
+  },
+  {
+    "subscription_id": "sub_acc_030",
+    "account_id": "acc_030",
+    "plan": "Enterprise Plus",
+    "start_date": "2026-08-29T04:19:43.272953+00:00",
+    "status": "active",
+    "mrr": 7499.0
+  },
+  {
+    "subscription_id": "sub_acc_031",
+    "account_id": "acc_031",
+    "plan": "Starter",
+    "start_date": "2026-04-02T04:19:43.272953+00:00",
+    "status": "active",
+    "mrr": 299.0
+  },
+  {
+    "subscription_id": "sub_acc_032",
+    "account_id": "acc_032",
+    "plan": "Starter",
+    "start_date": "2026-02-07T04:19:43.272953+00:00",
+    "status": "active",
+    "mrr": 299.0
+  },
+  {
+    "subscription_id": "sub_acc_033",
+    "account_id": "acc_033",
+    "plan": "Professional",
+    "start_date": "2026-08-10T04:19:43.272953+00:00",
+    "status": "active",
+    "mrr": 999.0
+  },
+  {
+    "subscription_id": "sub_acc_034",
+    "account_id": "acc_034",
+    "plan": "Enterprise Plus",
+    "start_date": "2026-06-19T04:19:43.272953+00:00",
+    "status": "active",
+    "mrr": 7499.0
+  },
+  {
+    "subscription_id": "sub_acc_035",
+    "account_id": "acc_035",
+    "plan": "Enterprise",
+    "start_date": "2026-07-06T04:19:43.272953+00:00",
+    "status": "active",
+    "mrr": 3499.0
+  },
+  {
+    "subscription_id": "sub_acc_036",
+    "account_id": "acc_036",
+    "plan": "Professional",
+    "start_date": "2026-06-23T04:19:43.272953+00:00",
+    "status": "active",
+    "mrr": 999.0
+  },
+  {
+    "subscription_id": "sub_acc_037",
+    "account_id": "acc_037",
+    "plan": "Starter",
+    "start_date": "2026-04-20T04:19:43.272953+00:00",
+    "status": "active",
+    "mrr": 299.0
+  },
+  {
+    "subscription_id": "sub_acc_038",
+    "account_id": "acc_038",
+    "plan": "Enterprise",
+    "start_date": "2026-01-29T04:19:43.272953+00:00",
+    "status": "active",
+    "mrr": 3499.0
+  },
+  {
+    "subscription_id": "sub_acc_039",
+    "account_id": "acc_039",
+    "plan": "Enterprise",
+    "start_date": "2026-04-20T04:19:43.272953+00:00",
+    "status": "active",
+    "mrr": 3499.0
+  },
+  {
+    "subscription_id": "sub_acc_040",
+    "account_id": "acc_040",
+    "plan": "Professional",
+    "start_date": "2026-04-19T04:19:43.272953+00:00",
+    "status": "active",
+    "mrr": 999.0
+  },
+  {
+    "subscription_id": "sub_acc_041",
+    "account_id": "acc_041",
+    "plan": "Professional",
+    "start_date": "2026-02-22T04:19:43.272953+00:00",
+    "status": "active",
+    "mrr": 999.0
+  },
+  {
+    "subscription_id": "sub_acc_042",
+    "account_id": "acc_042",
+    "plan": "Starter",
+    "start_date": "2026-06-03T04:19:43.272953+00:00",
+    "status": "active",
+    "mrr": 299.0
+  },
+  {
+    "subscription_id": "sub_acc_043",
+    "account_id": "acc_043",
+    "plan": "Enterprise Plus",
+    "start_date": "2026-05-23T04:19:43.272953+00:00",
+    "status": "active",
+    "mrr": 7499.0
+  },
+  {
+    "subscription_id": "sub_acc_044",
+    "account_id": "acc_044",
+    "plan": "Enterprise",
+    "start_date": "2026-05-06T04:19:43.272953+00:00",
+    "status": "active",
+    "mrr": 3499.0
+  },
+  {
+    "subscription_id": "sub_acc_045",
+    "account_id": "acc_045",
+    "plan": "Enterprise Plus",
+    "start_date": "2026-04-04T04:19:43.272953+00:00",
+    "status": "active",
+    "mrr": 7499.0
+  },
+  {
+    "subscription_id": "sub_acc_046",
+    "account_id": "acc_046",
+    "plan": "Professional",
+    "start_date": "2026-06-20T04:19:43.272953+00:00",
+    "status": "active",
+    "mrr": 999.0
+  },
+  {
+    "subscription_id": "sub_acc_047",
+    "account_id": "acc_047",
+    "plan": "Starter",
+    "start_date": "2026-05-18T04:19:43.272953+00:00",
+    "status": "active",
+    "mrr": 299.0
+  },
+  {
+    "subscription_id": "sub_acc_048",
+    "account_id": "acc_048",
+    "plan": "Enterprise",
+    "start_date": "2026-04-05T04:19:43.272953+00:00",
+    "status": "active",
+    "mrr": 3499.0
+  },
+  {
+    "subscription_id": "sub_acc_049",
+    "account_id": "acc_049",
+    "plan": "Enterprise",
+    "start_date": "2026-02-03T04:19:43.272953+00:00",
+    "status": "active",
+    "mrr": 3499.0
+  },
+  {
+    "subscription_id": "sub_acc_050",
+    "account_id": "acc_050",
+    "plan": "Starter",
+    "start_date": "2026-01-17T04:19:43.272953+00:00",
+    "status": "active",
+    "mrr": 299.0
+  }
+]

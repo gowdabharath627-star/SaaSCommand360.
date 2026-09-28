@@ -1,0 +1,502 @@
+[
+  {
+    "account_id": "acc_001",
+    "company_name": "Acme Analytics",
+    "industry": "CyberSecurity",
+    "size": "201-1000",
+    "region": "EMEA",
+    "owner": "Michael Chang",
+    "created_at": "2026-03-19T04:19:43.272953+00:00",
+    "cohort": "healthy"
+  },
+  {
+    "account_id": "acc_002",
+    "company_name": "Bolt Logistics",
+    "industry": "EdTech",
+    "size": "201-1000",
+    "region": "LATAM",
+    "owner": "David Kim",
+    "created_at": "2026-06-03T04:19:43.272953+00:00",
+    "cohort": "churn_risk"
+  },
+  {
+    "account_id": "acc_003",
+    "company_name": "CloudScale Networks",
+    "industry": "Fintech",
+    "size": "201-1000",
+    "region": "LATAM",
+    "owner": "Michael Chang",
+    "created_at": "2026-08-27T04:19:43.272953+00:00",
+    "cohort": "healthy"
+  },
+  {
+    "account_id": "acc_004",
+    "company_name": "DataPulse AI",
+    "industry": "Logistics",
+    "size": "1-50",
+    "region": "LATAM",
+    "owner": "Michael Chang",
+    "created_at": "2026-07-31T04:19:43.272953+00:00",
+    "cohort": "healthy"
+  },
+  {
+    "account_id": "acc_005",
+    "company_name": "Echo FinTech",
+    "industry": "CyberSecurity",
+    "size": "1000+",
+    "region": "EMEA",
+    "owner": "Elena Rostova",
+    "created_at": "2026-04-23T04:19:43.272953+00:00",
+    "cohort": "expansion_ready"
+  },
+  {
+    "account_id": "acc_006",
+    "company_name": "Forge Health",
+    "industry": "CyberSecurity",
+    "size": "1-50",
+    "region": "EMEA",
+    "owner": "Amara Okafor",
+    "created_at": "2026-06-30T04:19:43.272953+00:00",
+    "cohort": "churn_risk"
+  },
+  {
+    "account_id": "acc_007",
+    "company_name": "GridFlow Energy",
+    "industry": "Fintech",
+    "size": "1000+",
+    "region": "EMEA",
+    "owner": "Elena Rostova",
+    "created_at": "2026-06-17T04:19:43.272953+00:00",
+    "cohort": "healthy"
+  },
+  {
+    "account_id": "acc_008",
+    "company_name": "Helix Genomics",
+    "industry": "EdTech",
+    "size": "51-200",
+    "region": "North America",
+    "owner": "Sarah Jenkins",
+    "created_at": "2026-03-07T04:19:43.272953+00:00",
+    "cohort": "underutilized"
+  },
+  {
+    "account_id": "acc_009",
+    "company_name": "InfraShield Cyber",
+    "industry": "EdTech",
+    "size": "1000+",
+    "region": "EMEA",
+    "owner": "Michael Chang",
+    "created_at": "2026-03-30T04:19:43.272953+00:00",
+    "cohort": "healthy"
+  },
+  {
+    "account_id": "acc_010",
+    "company_name": "JumpStart SaaS",
+    "industry": "Healthtech",
+    "size": "1-50",
+    "region": "EMEA",
+    "owner": "Sarah Jenkins",
+    "created_at": "2026-07-10T04:19:43.272953+00:00",
+    "cohort": "churn_risk"
+  },
+  {
+    "account_id": "acc_011",
+    "company_name": "Kite Commerce",
+    "industry": "Logistics",
+    "size": "51-200",
+    "region": "North America",
+    "owner": "Elena Rostova",
+    "created_at": "2026-02-09T04:19:43.272953+00:00",
+    "cohort": "healthy"
+  },
+  {
+    "account_id": "acc_012",
+    "company_name": "Loom Video Labs",
+    "industry": "Logistics",
+    "size": "201-1000",
+    "region": "North America",
+    "owner": "Michael Chang",
+    "created_at": "2026-01-22T04:19:43.272953+00:00",
+    "cohort": "underutilized"
+  },
+  {
+    "account_id": "acc_013",
+    "company_name": "MetricStream Systems",
+    "industry": "E-commerce",
+    "size": "1000+",
+    "region": "LATAM",
+    "owner": "Amara Okafor",
+    "created_at": "2026-03-04T04:19:43.272953+00:00",
+    "cohort": "healthy"
+  },
+  {
+    "account_id": "acc_014",
+    "company_name": "Nexus Cloud",
+    "industry": "Healthtech",
+    "size": "201-1000",
+    "region": "North America",
+    "owner": "Elena Rostova",
+    "created_at": "2026-05-25T04:19:43.272953+00:00",
+    "cohort": "healthy"
+  },
+  {
+    "account_id": "acc_015",
+    "company_name": "OmniChannel Retail",
+    "industry": "Fintech",
+    "size": "201-1000",
+    "region": "EMEA",
+    "owner": "Sarah Jenkins",
+    "created_at": "2026-05-10T04:19:43.272953+00:00",
+    "cohort": "healthy"
+  },
+  {
+    "account_id": "acc_016",
+    "company_name": "Peak Dynamics",
+    "industry": "Healthtech",
+    "size": "201-1000",
+    "region": "APAC",
+    "owner": "Michael Chang",
+    "created_at": "2026-03-08T04:19:43.272953+00:00",
+    "cohort": "underutilized"
+  },
+  {
+    "account_id": "acc_017",
+    "company_name": "Quantum Ledger",
+    "industry": "Fintech",
+    "size": "201-1000",
+    "region": "EMEA",
+    "owner": "Sarah Jenkins",
+    "created_at": "2026-02-22T04:19:43.272953+00:00",
+    "cohort": "healthy"
+  },
+  {
+    "account_id": "acc_018",
+    "company_name": "RapidDeploy Inc",
+    "industry": "EdTech",
+    "size": "201-1000",
+    "region": "EMEA",
+    "owner": "Amara Okafor",
+    "created_at": "2026-08-14T04:19:43.272953+00:00",
+    "cohort": "underutilized"
+  },
+  {
+    "account_id": "acc_019",
+    "company_name": "SwiftPay Solutions",
+    "industry": "DevTools",
+    "size": "1-50",
+    "region": "LATAM",
+    "owner": "Amara Okafor",
+    "created_at": "2026-04-04T04:19:43.272953+00:00",
+    "cohort": "churn_risk"
+  },
+  {
+    "account_id": "acc_020",
+    "company_name": "Terra Robotics",
+    "industry": "CyberSecurity",
+    "size": "1000+",
+    "region": "EMEA",
+    "owner": "David Kim",
+    "created_at": "2026-08-02T04:19:43.272953+00:00",
+    "cohort": "churn_risk"
+  },
+  {
+    "account_id": "acc_021",
+    "company_name": "Union Media Group",
+    "industry": "EdTech",
+    "size": "201-1000",
+    "region": "North America",
+    "owner": "David Kim",
+    "created_at": "2026-07-16T04:19:43.272953+00:00",
+    "cohort": "healthy"
+  },
+  {
+    "account_id": "acc_022",
+    "company_name": "Vortex Security",
+    "industry": "CyberSecurity",
+    "size": "201-1000",
+    "region": "EMEA",
+    "owner": "Sarah Jenkins",
+    "created_at": "2026-07-28T04:19:43.272953+00:00",
+    "cohort": "healthy"
+  },
+  {
+    "account_id": "acc_023",
+    "company_name": "Waveform Audio",
+    "industry": "CyberSecurity",
+    "size": "1000+",
+    "region": "APAC",
+    "owner": "Sarah Jenkins",
+    "created_at": "2026-05-24T04:19:43.272953+00:00",
+    "cohort": "healthy"
+  },
+  {
+    "account_id": "acc_024",
+    "company_name": "XenoBio Labs",
+    "industry": "Healthtech",
+    "size": "51-200",
+    "region": "LATAM",
+    "owner": "Amara Okafor",
+    "created_at": "2026-07-23T04:19:43.272953+00:00",
+    "cohort": "healthy"
+  },
+  {
+    "account_id": "acc_025",
+    "company_name": "YieldPoint Capital",
+    "industry": "DevTools",
+    "size": "1000+",
+    "region": "LATAM",
+    "owner": "Amara Okafor",
+    "created_at": "2026-08-18T04:19:43.272953+00:00",
+    "cohort": "churn_risk"
+  },
+  {
+    "account_id": "acc_026",
+    "company_name": "Zenith Workforce",
+    "industry": "EdTech",
+    "size": "1-50",
+    "region": "LATAM",
+    "owner": "Michael Chang",
+    "created_at": "2026-01-31T04:19:43.272953+00:00",
+    "cohort": "churn_risk"
+  },
+  {
+    "account_id": "acc_027",
+    "company_name": "Apex Global",
+    "industry": "DevTools",
+    "size": "1000+",
+    "region": "North America",
+    "owner": "Sarah Jenkins",
+    "created_at": "2026-08-26T04:19:43.272953+00:00",
+    "cohort": "underutilized"
+  },
+  {
+    "account_id": "acc_028",
+    "company_name": "Beacon AI",
+    "industry": "DevTools",
+    "size": "1000+",
+    "region": "LATAM",
+    "owner": "Amara Okafor",
+    "created_at": "2026-07-02T04:19:43.272953+00:00",
+    "cohort": "expansion_ready"
+  },
+  {
+    "account_id": "acc_029",
+    "company_name": "Catalyst Bio",
+    "industry": "E-commerce",
+    "size": "1000+",
+    "region": "APAC",
+    "owner": "Amara Okafor",
+    "created_at": "2026-08-14T04:19:43.272953+00:00",
+    "cohort": "healthy"
+  },
+  {
+    "account_id": "acc_030",
+    "company_name": "Delta Payments",
+    "industry": "Fintech",
+    "size": "1-50",
+    "region": "APAC",
+    "owner": "David Kim",
+    "created_at": "2026-08-29T04:19:43.272953+00:00",
+    "cohort": "churn_risk"
+  },
+  {
+    "account_id": "acc_031",
+    "company_name": "Epoch Software",
+    "industry": "Fintech",
+    "size": "1-50",
+    "region": "EMEA",
+    "owner": "David Kim",
+    "created_at": "2026-04-02T04:19:43.272953+00:00",
+    "cohort": "healthy"
+  },
+  {
+    "account_id": "acc_032",
+    "company_name": "Frontier Data",
+    "industry": "DevTools",
+    "size": "51-200",
+    "region": "LATAM",
+    "owner": "David Kim",
+    "created_at": "2026-02-07T04:19:43.272953+00:00",
+    "cohort": "expansion_ready"
+  },
+  {
+    "account_id": "acc_033",
+    "company_name": "Gravitas Finance",
+    "industry": "Healthtech",
+    "size": "51-200",
+    "region": "North America",
+    "owner": "Elena Rostova",
+    "created_at": "2026-08-10T04:19:43.272953+00:00",
+    "cohort": "expansion_ready"
+  },
+  {
+    "account_id": "acc_034",
+    "company_name": "Hyperion Dev",
+    "industry": "DevTools",
+    "size": "51-200",
+    "region": "LATAM",
+    "owner": "David Kim",
+    "created_at": "2026-06-19T04:19:43.272953+00:00",
+    "cohort": "churn_risk"
+  },
+  {
+    "account_id": "acc_035",
+    "company_name": "Ion Space",
+    "industry": "CyberSecurity",
+    "size": "1000+",
+    "region": "EMEA",
+    "owner": "Sarah Jenkins",
+    "created_at": "2026-07-06T04:19:43.272953+00:00",
+    "cohort": "healthy"
+  },
+  {
+    "account_id": "acc_036",
+    "company_name": "Javelin Logistics",
+    "industry": "CyberSecurity",
+    "size": "201-1000",
+    "region": "EMEA",
+    "owner": "Michael Chang",
+    "created_at": "2026-06-23T04:19:43.272953+00:00",
+    "cohort": "churn_risk"
+  },
+  {
+    "account_id": "acc_037",
+    "company_name": "Kronos Security",
+    "industry": "E-commerce",
+    "size": "1000+",
+    "region": "APAC",
+    "owner": "Sarah Jenkins",
+    "created_at": "2026-04-20T04:19:43.272953+00:00",
+    "cohort": "expansion_ready"
+  },
+  {
+    "account_id": "acc_038",
+    "company_name": "Luminary Media",
+    "industry": "CyberSecurity",
+    "size": "51-200",
+    "region": "APAC",
+    "owner": "Sarah Jenkins",
+    "created_at": "2026-01-29T04:19:43.272953+00:00",
+    "cohort": "healthy"
+  },
+  {
+    "account_id": "acc_039",
+    "company_name": "Matrix Systems",
+    "industry": "Fintech",
+    "size": "1000+",
+    "region": "EMEA",
+    "owner": "Elena Rostova",
+    "created_at": "2026-04-20T04:19:43.272953+00:00",
+    "cohort": "healthy"
+  },
+  {
+    "account_id": "acc_040",
+    "company_name": "Nova Health",
+    "industry": "CyberSecurity",
+    "size": "1-50",
+    "region": "North America",
+    "owner": "Sarah Jenkins",
+    "created_at": "2026-04-19T04:19:43.272953+00:00",
+    "cohort": "healthy"
+  },
+  {
+    "account_id": "acc_041",
+    "company_name": "Optima Retail",
+    "industry": "Healthtech",
+    "size": "51-200",
+    "region": "North America",
+    "owner": "Amara Okafor",
+    "created_at": "2026-02-22T04:19:43.272953+00:00",
+    "cohort": "healthy"
+  },
+  {
+    "account_id": "acc_042",
+    "company_name": "Pinnacle Cloud",
+    "industry": "Fintech",
+    "size": "1-50",
+    "region": "EMEA",
+    "owner": "Elena Rostova",
+    "created_at": "2026-06-03T04:19:43.272953+00:00",
+    "cohort": "churn_risk"
+  },
+  {
+    "account_id": "acc_043",
+    "company_name": "Quasar Tech",
+    "industry": "Fintech",
+    "size": "1000+",
+    "region": "APAC",
+    "owner": "Amara Okafor",
+    "created_at": "2026-05-23T04:19:43.272953+00:00",
+    "cohort": "healthy"
+  },
+  {
+    "account_id": "acc_044",
+    "company_name": "Resilience Cyber",
+    "industry": "E-commerce",
+    "size": "201-1000",
+    "region": "North America",
+    "owner": "Amara Okafor",
+    "created_at": "2026-05-06T04:19:43.272953+00:00",
+    "cohort": "healthy"
+  },
+  {
+    "account_id": "acc_045",
+    "company_name": "Stratum IoT",
+    "industry": "CyberSecurity",
+    "size": "1-50",
+    "region": "North America",
+    "owner": "Michael Chang",
+    "created_at": "2026-04-04T04:19:43.272953+00:00",
+    "cohort": "healthy"
+  },
+  {
+    "account_id": "acc_046",
+    "company_name": "Titan Freight",
+    "industry": "CyberSecurity",
+    "size": "51-200",
+    "region": "North America",
+    "owner": "Amara Okafor",
+    "created_at": "2026-06-20T04:19:43.272953+00:00",
+    "cohort": "healthy"
+  },
+  {
+    "account_id": "acc_047",
+    "company_name": "Ubiquity AI",
+    "industry": "DevTools",
+    "size": "1-50",
+    "region": "LATAM",
+    "owner": "Amara Okafor",
+    "created_at": "2026-05-18T04:19:43.272953+00:00",
+    "cohort": "healthy"
+  },
+  {
+    "account_id": "acc_048",
+    "company_name": "Veritas LegalTech",
+    "industry": "E-commerce",
+    "size": "51-200",
+    "region": "LATAM",
+    "owner": "Elena Rostova",
+    "created_at": "2026-04-05T04:19:43.272953+00:00",
+    "cohort": "healthy"
+  },
+  {
+    "account_id": "acc_049",
+    "company_name": "Waypoint Travel",
+    "industry": "Logistics",
+    "size": "1-50",
+    "region": "North America",
+    "owner": "Sarah Jenkins",
+    "created_at": "2026-02-03T04:19:43.272953+00:00",
+    "cohort": "healthy"
+  },
+  {
+    "account_id": "acc_050",
+    "company_name": "Xcelerate Labs",
+    "industry": "Healthtech",
+    "size": "1000+",
+    "region": "EMEA",
+    "owner": "Sarah Jenkins",
+    "created_at": "2026-01-17T04:19:43.272953+00:00",
+    "cohort": "churn_risk"
+  }
+]

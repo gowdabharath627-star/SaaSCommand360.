@@ -1,0 +1,1202 @@
+[
+  {
+    "invoice_id": "inv_acc_001_1",
+    "account_id": "acc_001",
+    "amount": 999.0,
+    "due_date": "2026-08-14T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-08-01T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_001_2",
+    "account_id": "acc_001",
+    "amount": 999.0,
+    "due_date": "2026-09-12T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-09-02T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_001_3",
+    "account_id": "acc_001",
+    "amount": 999.0,
+    "due_date": "2026-10-09T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-09-26T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_002_1",
+    "account_id": "acc_002",
+    "amount": 7499.0,
+    "due_date": "2026-08-13T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-07-30T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_002_2",
+    "account_id": "acc_002",
+    "amount": 7499.0,
+    "due_date": "2026-09-13T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-09-01T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_002_3",
+    "account_id": "acc_002",
+    "amount": 7499.0,
+    "due_date": "2026-10-09T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-09-26T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_003_1",
+    "account_id": "acc_003",
+    "amount": 7499.0,
+    "due_date": "2026-08-09T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-07-30T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_003_2",
+    "account_id": "acc_003",
+    "amount": 7499.0,
+    "due_date": "2026-09-10T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-08-27T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_003_3",
+    "account_id": "acc_003",
+    "amount": 7499.0,
+    "due_date": "2026-10-13T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-09-29T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_004_1",
+    "account_id": "acc_004",
+    "amount": 3499.0,
+    "due_date": "2026-08-09T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-07-26T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_004_2",
+    "account_id": "acc_004",
+    "amount": 3499.0,
+    "due_date": "2026-09-13T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-08-30T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_004_3",
+    "account_id": "acc_004",
+    "amount": 3499.0,
+    "due_date": "2026-10-08T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-09-24T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_005_1",
+    "account_id": "acc_005",
+    "amount": 299.0,
+    "due_date": "2026-08-09T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-07-30T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_005_2",
+    "account_id": "acc_005",
+    "amount": 299.0,
+    "due_date": "2026-09-10T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-08-28T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_005_3",
+    "account_id": "acc_005",
+    "amount": 299.0,
+    "due_date": "2026-10-10T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-09-30T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_006_1",
+    "account_id": "acc_006",
+    "amount": 299.0,
+    "due_date": "2026-08-12T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-08-02T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_006_2",
+    "account_id": "acc_006",
+    "amount": 299.0,
+    "due_date": "2026-09-08T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-08-26T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_006_3",
+    "account_id": "acc_006",
+    "amount": 299.0,
+    "due_date": "2026-10-12T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-09-29T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_007_1",
+    "account_id": "acc_007",
+    "amount": 3499.0,
+    "due_date": "2026-08-13T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-07-30T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_007_2",
+    "account_id": "acc_007",
+    "amount": 3499.0,
+    "due_date": "2026-09-10T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-08-29T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_007_3",
+    "account_id": "acc_007",
+    "amount": 3499.0,
+    "due_date": "2026-10-12T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-09-29T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_008_1",
+    "account_id": "acc_008",
+    "amount": 3499.0,
+    "due_date": "2026-08-14T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-08-04T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_008_2",
+    "account_id": "acc_008",
+    "amount": 3499.0,
+    "due_date": "2026-09-10T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-08-27T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_008_3",
+    "account_id": "acc_008",
+    "amount": 3499.0,
+    "due_date": "2026-10-11T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-09-28T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_009_1",
+    "account_id": "acc_009",
+    "amount": 7499.0,
+    "due_date": "2026-08-09T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-07-26T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_009_2",
+    "account_id": "acc_009",
+    "amount": 7499.0,
+    "due_date": "2026-09-12T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-09-02T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_009_3",
+    "account_id": "acc_009",
+    "amount": 7499.0,
+    "due_date": "2026-10-08T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-09-27T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_010_1",
+    "account_id": "acc_010",
+    "amount": 299.0,
+    "due_date": "2026-08-10T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-07-31T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_010_2",
+    "account_id": "acc_010",
+    "amount": 299.0,
+    "due_date": "2026-09-10T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-08-31T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_010_3",
+    "account_id": "acc_010",
+    "amount": 299.0,
+    "due_date": "2026-10-10T04:19:43.272953+00:00",
+    "status": "failed",
+    "paid_at": null
+  },
+  {
+    "invoice_id": "inv_acc_011_1",
+    "account_id": "acc_011",
+    "amount": 299.0,
+    "due_date": "2026-08-10T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-07-31T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_011_2",
+    "account_id": "acc_011",
+    "amount": 299.0,
+    "due_date": "2026-09-08T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-08-28T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_011_3",
+    "account_id": "acc_011",
+    "amount": 299.0,
+    "due_date": "2026-10-13T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-09-30T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_012_1",
+    "account_id": "acc_012",
+    "amount": 7499.0,
+    "due_date": "2026-08-13T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-08-02T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_012_2",
+    "account_id": "acc_012",
+    "amount": 7499.0,
+    "due_date": "2026-09-09T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-08-27T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_012_3",
+    "account_id": "acc_012",
+    "amount": 7499.0,
+    "due_date": "2026-10-13T04:19:43.272953+00:00",
+    "status": "open",
+    "paid_at": null
+  },
+  {
+    "invoice_id": "inv_acc_013_1",
+    "account_id": "acc_013",
+    "amount": 7499.0,
+    "due_date": "2026-08-14T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-08-01T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_013_2",
+    "account_id": "acc_013",
+    "amount": 7499.0,
+    "due_date": "2026-09-08T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-08-27T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_013_3",
+    "account_id": "acc_013",
+    "amount": 7499.0,
+    "due_date": "2026-10-12T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-10-02T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_014_1",
+    "account_id": "acc_014",
+    "amount": 299.0,
+    "due_date": "2026-08-10T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-07-30T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_014_2",
+    "account_id": "acc_014",
+    "amount": 299.0,
+    "due_date": "2026-09-13T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-09-01T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_014_3",
+    "account_id": "acc_014",
+    "amount": 299.0,
+    "due_date": "2026-10-10T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-09-26T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_015_1",
+    "account_id": "acc_015",
+    "amount": 299.0,
+    "due_date": "2026-08-13T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-08-01T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_015_2",
+    "account_id": "acc_015",
+    "amount": 299.0,
+    "due_date": "2026-09-13T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-08-31T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_015_3",
+    "account_id": "acc_015",
+    "amount": 299.0,
+    "due_date": "2026-10-13T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-09-30T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_016_1",
+    "account_id": "acc_016",
+    "amount": 3499.0,
+    "due_date": "2026-08-09T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-07-29T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_016_2",
+    "account_id": "acc_016",
+    "amount": 3499.0,
+    "due_date": "2026-09-12T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-08-30T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_016_3",
+    "account_id": "acc_016",
+    "amount": 3499.0,
+    "due_date": "2026-10-12T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-09-30T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_017_1",
+    "account_id": "acc_017",
+    "amount": 999.0,
+    "due_date": "2026-08-14T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-07-31T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_017_2",
+    "account_id": "acc_017",
+    "amount": 999.0,
+    "due_date": "2026-09-09T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-08-28T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_017_3",
+    "account_id": "acc_017",
+    "amount": 999.0,
+    "due_date": "2026-10-11T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-10-01T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_018_1",
+    "account_id": "acc_018",
+    "amount": 3499.0,
+    "due_date": "2026-08-14T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-08-04T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_018_2",
+    "account_id": "acc_018",
+    "amount": 3499.0,
+    "due_date": "2026-09-13T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-09-01T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_018_3",
+    "account_id": "acc_018",
+    "amount": 3499.0,
+    "due_date": "2026-10-09T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-09-29T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_019_1",
+    "account_id": "acc_019",
+    "amount": 999.0,
+    "due_date": "2026-08-10T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-07-27T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_019_2",
+    "account_id": "acc_019",
+    "amount": 999.0,
+    "due_date": "2026-09-12T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-08-30T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_019_3",
+    "account_id": "acc_019",
+    "amount": 999.0,
+    "due_date": "2026-10-08T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-09-26T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_020_1",
+    "account_id": "acc_020",
+    "amount": 3499.0,
+    "due_date": "2026-08-13T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-08-02T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_020_2",
+    "account_id": "acc_020",
+    "amount": 3499.0,
+    "due_date": "2026-09-12T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-08-30T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_020_3",
+    "account_id": "acc_020",
+    "amount": 3499.0,
+    "due_date": "2026-10-08T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-09-27T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_021_1",
+    "account_id": "acc_021",
+    "amount": 7499.0,
+    "due_date": "2026-08-11T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-07-31T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_021_2",
+    "account_id": "acc_021",
+    "amount": 7499.0,
+    "due_date": "2026-09-10T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-08-28T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_021_3",
+    "account_id": "acc_021",
+    "amount": 7499.0,
+    "due_date": "2026-10-11T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-09-28T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_022_1",
+    "account_id": "acc_022",
+    "amount": 999.0,
+    "due_date": "2026-08-14T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-08-01T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_022_2",
+    "account_id": "acc_022",
+    "amount": 999.0,
+    "due_date": "2026-09-10T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-08-31T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_022_3",
+    "account_id": "acc_022",
+    "amount": 999.0,
+    "due_date": "2026-10-13T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-10-03T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_023_1",
+    "account_id": "acc_023",
+    "amount": 3499.0,
+    "due_date": "2026-08-11T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-08-01T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_023_2",
+    "account_id": "acc_023",
+    "amount": 3499.0,
+    "due_date": "2026-09-10T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-08-30T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_023_3",
+    "account_id": "acc_023",
+    "amount": 3499.0,
+    "due_date": "2026-10-13T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-09-30T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_024_1",
+    "account_id": "acc_024",
+    "amount": 7499.0,
+    "due_date": "2026-08-11T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-07-29T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_024_2",
+    "account_id": "acc_024",
+    "amount": 7499.0,
+    "due_date": "2026-09-12T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-08-29T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_024_3",
+    "account_id": "acc_024",
+    "amount": 7499.0,
+    "due_date": "2026-10-10T04:19:43.272953+00:00",
+    "status": "open",
+    "paid_at": null
+  },
+  {
+    "invoice_id": "inv_acc_025_1",
+    "account_id": "acc_025",
+    "amount": 7499.0,
+    "due_date": "2026-08-10T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-07-27T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_025_2",
+    "account_id": "acc_025",
+    "amount": 7499.0,
+    "due_date": "2026-09-08T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-08-25T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_025_3",
+    "account_id": "acc_025",
+    "amount": 7499.0,
+    "due_date": "2026-10-09T04:19:43.272953+00:00",
+    "status": "failed",
+    "paid_at": null
+  },
+  {
+    "invoice_id": "inv_acc_026_1",
+    "account_id": "acc_026",
+    "amount": 999.0,
+    "due_date": "2026-08-12T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-08-01T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_026_2",
+    "account_id": "acc_026",
+    "amount": 999.0,
+    "due_date": "2026-09-10T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-08-28T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_026_3",
+    "account_id": "acc_026",
+    "amount": 999.0,
+    "due_date": "2026-10-09T04:19:43.272953+00:00",
+    "status": "failed",
+    "paid_at": null
+  },
+  {
+    "invoice_id": "inv_acc_027_1",
+    "account_id": "acc_027",
+    "amount": 3499.0,
+    "due_date": "2026-08-10T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-07-28T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_027_2",
+    "account_id": "acc_027",
+    "amount": 3499.0,
+    "due_date": "2026-09-10T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-08-28T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_027_3",
+    "account_id": "acc_027",
+    "amount": 3499.0,
+    "due_date": "2026-10-09T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-09-27T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_028_1",
+    "account_id": "acc_028",
+    "amount": 299.0,
+    "due_date": "2026-08-12T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-07-31T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_028_2",
+    "account_id": "acc_028",
+    "amount": 299.0,
+    "due_date": "2026-09-10T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-08-29T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_028_3",
+    "account_id": "acc_028",
+    "amount": 299.0,
+    "due_date": "2026-10-09T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-09-26T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_029_1",
+    "account_id": "acc_029",
+    "amount": 3499.0,
+    "due_date": "2026-08-09T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-07-30T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_029_2",
+    "account_id": "acc_029",
+    "amount": 3499.0,
+    "due_date": "2026-09-10T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-08-29T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_029_3",
+    "account_id": "acc_029",
+    "amount": 3499.0,
+    "due_date": "2026-10-08T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-09-27T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_030_1",
+    "account_id": "acc_030",
+    "amount": 7499.0,
+    "due_date": "2026-08-11T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-07-28T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_030_2",
+    "account_id": "acc_030",
+    "amount": 7499.0,
+    "due_date": "2026-09-13T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-08-30T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_030_3",
+    "account_id": "acc_030",
+    "amount": 7499.0,
+    "due_date": "2026-10-11T04:19:43.272953+00:00",
+    "status": "failed",
+    "paid_at": null
+  },
+  {
+    "invoice_id": "inv_acc_031_1",
+    "account_id": "acc_031",
+    "amount": 299.0,
+    "due_date": "2026-08-12T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-08-02T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_031_2",
+    "account_id": "acc_031",
+    "amount": 299.0,
+    "due_date": "2026-09-12T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-09-01T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_031_3",
+    "account_id": "acc_031",
+    "amount": 299.0,
+    "due_date": "2026-10-09T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-09-27T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_032_1",
+    "account_id": "acc_032",
+    "amount": 299.0,
+    "due_date": "2026-08-10T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-07-28T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_032_2",
+    "account_id": "acc_032",
+    "amount": 299.0,
+    "due_date": "2026-09-12T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-08-30T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_032_3",
+    "account_id": "acc_032",
+    "amount": 299.0,
+    "due_date": "2026-10-08T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-09-24T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_033_1",
+    "account_id": "acc_033",
+    "amount": 999.0,
+    "due_date": "2026-08-11T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-07-31T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_033_2",
+    "account_id": "acc_033",
+    "amount": 999.0,
+    "due_date": "2026-09-12T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-09-02T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_033_3",
+    "account_id": "acc_033",
+    "amount": 999.0,
+    "due_date": "2026-10-13T04:19:43.272953+00:00",
+    "status": "open",
+    "paid_at": null
+  },
+  {
+    "invoice_id": "inv_acc_034_1",
+    "account_id": "acc_034",
+    "amount": 7499.0,
+    "due_date": "2026-08-09T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-07-29T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_034_2",
+    "account_id": "acc_034",
+    "amount": 7499.0,
+    "due_date": "2026-09-11T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-08-28T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_034_3",
+    "account_id": "acc_034",
+    "amount": 7499.0,
+    "due_date": "2026-10-13T04:19:43.272953+00:00",
+    "status": "failed",
+    "paid_at": null
+  },
+  {
+    "invoice_id": "inv_acc_035_1",
+    "account_id": "acc_035",
+    "amount": 3499.0,
+    "due_date": "2026-08-13T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-08-01T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_035_2",
+    "account_id": "acc_035",
+    "amount": 3499.0,
+    "due_date": "2026-09-11T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-08-30T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_035_3",
+    "account_id": "acc_035",
+    "amount": 3499.0,
+    "due_date": "2026-10-09T04:19:43.272953+00:00",
+    "status": "open",
+    "paid_at": null
+  },
+  {
+    "invoice_id": "inv_acc_036_1",
+    "account_id": "acc_036",
+    "amount": 999.0,
+    "due_date": "2026-08-12T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-07-30T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_036_2",
+    "account_id": "acc_036",
+    "amount": 999.0,
+    "due_date": "2026-09-12T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-08-31T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_036_3",
+    "account_id": "acc_036",
+    "amount": 999.0,
+    "due_date": "2026-10-13T04:19:43.272953+00:00",
+    "status": "failed",
+    "paid_at": null
+  },
+  {
+    "invoice_id": "inv_acc_037_1",
+    "account_id": "acc_037",
+    "amount": 299.0,
+    "due_date": "2026-08-12T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-08-01T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_037_2",
+    "account_id": "acc_037",
+    "amount": 299.0,
+    "due_date": "2026-09-12T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-08-30T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_037_3",
+    "account_id": "acc_037",
+    "amount": 299.0,
+    "due_date": "2026-10-11T04:19:43.272953+00:00",
+    "status": "open",
+    "paid_at": null
+  },
+  {
+    "invoice_id": "inv_acc_038_1",
+    "account_id": "acc_038",
+    "amount": 3499.0,
+    "due_date": "2026-08-14T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-08-04T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_038_2",
+    "account_id": "acc_038",
+    "amount": 3499.0,
+    "due_date": "2026-09-10T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-08-28T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_038_3",
+    "account_id": "acc_038",
+    "amount": 3499.0,
+    "due_date": "2026-10-11T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-09-27T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_039_1",
+    "account_id": "acc_039",
+    "amount": 3499.0,
+    "due_date": "2026-08-09T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-07-28T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_039_2",
+    "account_id": "acc_039",
+    "amount": 3499.0,
+    "due_date": "2026-09-09T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-08-27T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_039_3",
+    "account_id": "acc_039",
+    "amount": 3499.0,
+    "due_date": "2026-10-11T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-09-30T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_040_1",
+    "account_id": "acc_040",
+    "amount": 999.0,
+    "due_date": "2026-08-10T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-07-31T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_040_2",
+    "account_id": "acc_040",
+    "amount": 999.0,
+    "due_date": "2026-09-09T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-08-28T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_040_3",
+    "account_id": "acc_040",
+    "amount": 999.0,
+    "due_date": "2026-10-10T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-09-28T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_041_1",
+    "account_id": "acc_041",
+    "amount": 999.0,
+    "due_date": "2026-08-09T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-07-26T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_041_2",
+    "account_id": "acc_041",
+    "amount": 999.0,
+    "due_date": "2026-09-10T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-08-27T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_041_3",
+    "account_id": "acc_041",
+    "amount": 999.0,
+    "due_date": "2026-10-11T04:19:43.272953+00:00",
+    "status": "open",
+    "paid_at": null
+  },
+  {
+    "invoice_id": "inv_acc_042_1",
+    "account_id": "acc_042",
+    "amount": 299.0,
+    "due_date": "2026-08-11T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-07-28T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_042_2",
+    "account_id": "acc_042",
+    "amount": 299.0,
+    "due_date": "2026-09-10T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-08-30T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_042_3",
+    "account_id": "acc_042",
+    "amount": 299.0,
+    "due_date": "2026-10-13T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-10-02T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_043_1",
+    "account_id": "acc_043",
+    "amount": 7499.0,
+    "due_date": "2026-08-11T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-07-30T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_043_2",
+    "account_id": "acc_043",
+    "amount": 7499.0,
+    "due_date": "2026-09-12T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-09-02T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_043_3",
+    "account_id": "acc_043",
+    "amount": 7499.0,
+    "due_date": "2026-10-13T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-10-01T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_044_1",
+    "account_id": "acc_044",
+    "amount": 3499.0,
+    "due_date": "2026-08-09T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-07-26T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_044_2",
+    "account_id": "acc_044",
+    "amount": 3499.0,
+    "due_date": "2026-09-11T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-08-28T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_044_3",
+    "account_id": "acc_044",
+    "amount": 3499.0,
+    "due_date": "2026-10-12T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-09-30T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_045_1",
+    "account_id": "acc_045",
+    "amount": 7499.0,
+    "due_date": "2026-08-10T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-07-30T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_045_2",
+    "account_id": "acc_045",
+    "amount": 7499.0,
+    "due_date": "2026-09-11T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-09-01T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_045_3",
+    "account_id": "acc_045",
+    "amount": 7499.0,
+    "due_date": "2026-10-13T04:19:43.272953+00:00",
+    "status": "open",
+    "paid_at": null
+  },
+  {
+    "invoice_id": "inv_acc_046_1",
+    "account_id": "acc_046",
+    "amount": 999.0,
+    "due_date": "2026-08-09T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-07-30T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_046_2",
+    "account_id": "acc_046",
+    "amount": 999.0,
+    "due_date": "2026-09-12T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-09-02T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_046_3",
+    "account_id": "acc_046",
+    "amount": 999.0,
+    "due_date": "2026-10-12T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-10-01T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_047_1",
+    "account_id": "acc_047",
+    "amount": 299.0,
+    "due_date": "2026-08-10T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-07-31T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_047_2",
+    "account_id": "acc_047",
+    "amount": 299.0,
+    "due_date": "2026-09-12T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-08-30T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_047_3",
+    "account_id": "acc_047",
+    "amount": 299.0,
+    "due_date": "2026-10-10T04:19:43.272953+00:00",
+    "status": "open",
+    "paid_at": null
+  },
+  {
+    "invoice_id": "inv_acc_048_1",
+    "account_id": "acc_048",
+    "amount": 3499.0,
+    "due_date": "2026-08-13T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-07-30T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_048_2",
+    "account_id": "acc_048",
+    "amount": 3499.0,
+    "due_date": "2026-09-09T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-08-28T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_048_3",
+    "account_id": "acc_048",
+    "amount": 3499.0,
+    "due_date": "2026-10-12T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-10-02T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_049_1",
+    "account_id": "acc_049",
+    "amount": 3499.0,
+    "due_date": "2026-08-12T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-07-29T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_049_2",
+    "account_id": "acc_049",
+    "amount": 3499.0,
+    "due_date": "2026-09-08T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-08-27T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_049_3",
+    "account_id": "acc_049",
+    "amount": 3499.0,
+    "due_date": "2026-10-08T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-09-26T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_050_1",
+    "account_id": "acc_050",
+    "amount": 299.0,
+    "due_date": "2026-08-13T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-08-03T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_050_2",
+    "account_id": "acc_050",
+    "amount": 299.0,
+    "due_date": "2026-09-10T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-08-28T04:19:43.272953+00:00"
+  },
+  {
+    "invoice_id": "inv_acc_050_3",
+    "account_id": "acc_050",
+    "amount": 299.0,
+    "due_date": "2026-10-11T04:19:43.272953+00:00",
+    "status": "paid",
+    "paid_at": "2026-10-01T04:19:43.272953+00:00"
+  }
+]

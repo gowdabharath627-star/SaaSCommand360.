@@ -1,0 +1,1522 @@
+[
+  {
+    "ticket_id": "tkt_acc_001_1",
+    "account_id": "acc_001",
+    "severity": "high",
+    "status": "resolved",
+    "created_at": "2026-08-29T13:19:43.272953+00:00",
+    "resolved_at": "2026-08-29T15:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_001_2",
+    "account_id": "acc_001",
+    "severity": "medium",
+    "status": "resolved",
+    "created_at": "2026-09-06T05:19:43.272953+00:00",
+    "resolved_at": "2026-09-06T16:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_001_3",
+    "account_id": "acc_001",
+    "severity": "low",
+    "status": "open",
+    "created_at": "2026-08-30T17:19:43.272953+00:00",
+    "resolved_at": null
+  },
+  {
+    "ticket_id": "tkt_acc_001_4",
+    "account_id": "acc_001",
+    "severity": "medium",
+    "status": "resolved",
+    "created_at": "2026-09-14T16:19:43.272953+00:00",
+    "resolved_at": "2026-09-14T20:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_002_1",
+    "account_id": "acc_002",
+    "severity": "critical",
+    "status": "resolved",
+    "created_at": "2026-09-22T06:19:43.272953+00:00",
+    "resolved_at": "2026-09-23T04:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_002_2",
+    "account_id": "acc_002",
+    "severity": "medium",
+    "status": "resolved",
+    "created_at": "2026-08-10T13:19:43.272953+00:00",
+    "resolved_at": "2026-08-12T01:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_002_3",
+    "account_id": "acc_002",
+    "severity": "high",
+    "status": "open",
+    "created_at": "2026-08-20T00:19:43.272953+00:00",
+    "resolved_at": null
+  },
+  {
+    "ticket_id": "tkt_acc_002_4",
+    "account_id": "acc_002",
+    "severity": "critical",
+    "status": "resolved",
+    "created_at": "2026-07-25T23:19:43.272953+00:00",
+    "resolved_at": "2026-07-26T22:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_002_5",
+    "account_id": "acc_002",
+    "severity": "medium",
+    "status": "open",
+    "created_at": "2026-09-26T10:19:43.272953+00:00",
+    "resolved_at": null
+  },
+  {
+    "ticket_id": "tkt_acc_002_6",
+    "account_id": "acc_002",
+    "severity": "critical",
+    "status": "resolved",
+    "created_at": "2026-08-20T12:19:43.272953+00:00",
+    "resolved_at": "2026-08-21T10:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_002_7",
+    "account_id": "acc_002",
+    "severity": "critical",
+    "status": "resolved",
+    "created_at": "2026-07-16T13:19:43.272953+00:00",
+    "resolved_at": "2026-07-19T06:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_002_8",
+    "account_id": "acc_002",
+    "severity": "medium",
+    "status": "open",
+    "created_at": "2026-09-21T23:19:43.272953+00:00",
+    "resolved_at": null
+  },
+  {
+    "ticket_id": "tkt_acc_002_9",
+    "account_id": "acc_002",
+    "severity": "critical",
+    "status": "resolved",
+    "created_at": "2026-08-19T03:19:43.272953+00:00",
+    "resolved_at": "2026-08-20T11:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_003_1",
+    "account_id": "acc_003",
+    "severity": "medium",
+    "status": "resolved",
+    "created_at": "2026-08-02T21:19:43.272953+00:00",
+    "resolved_at": "2026-08-03T19:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_003_2",
+    "account_id": "acc_003",
+    "severity": "medium",
+    "status": "resolved",
+    "created_at": "2026-08-14T08:19:43.272953+00:00",
+    "resolved_at": "2026-08-15T16:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_003_3",
+    "account_id": "acc_003",
+    "severity": "medium",
+    "status": "open",
+    "created_at": "2026-09-12T19:19:43.272953+00:00",
+    "resolved_at": null
+  },
+  {
+    "ticket_id": "tkt_acc_003_4",
+    "account_id": "acc_003",
+    "severity": "low",
+    "status": "resolved",
+    "created_at": "2026-09-07T12:19:43.272953+00:00",
+    "resolved_at": "2026-09-08T10:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_004_1",
+    "account_id": "acc_004",
+    "severity": "high",
+    "status": "resolved",
+    "created_at": "2026-07-24T16:19:43.272953+00:00",
+    "resolved_at": "2026-07-24T22:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_005_1",
+    "account_id": "acc_005",
+    "severity": "medium",
+    "status": "resolved",
+    "created_at": "2026-09-21T13:19:43.272953+00:00",
+    "resolved_at": "2026-09-21T23:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_005_2",
+    "account_id": "acc_005",
+    "severity": "high",
+    "status": "resolved",
+    "created_at": "2026-09-25T13:19:43.272953+00:00",
+    "resolved_at": "2026-09-27T10:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_005_3",
+    "account_id": "acc_005",
+    "severity": "medium",
+    "status": "resolved",
+    "created_at": "2026-08-31T23:19:43.272953+00:00",
+    "resolved_at": "2026-09-02T22:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_006_1",
+    "account_id": "acc_006",
+    "severity": "critical",
+    "status": "open",
+    "created_at": "2026-09-03T05:19:43.272953+00:00",
+    "resolved_at": null
+  },
+  {
+    "ticket_id": "tkt_acc_006_2",
+    "account_id": "acc_006",
+    "severity": "medium",
+    "status": "resolved",
+    "created_at": "2026-08-11T23:19:43.272953+00:00",
+    "resolved_at": "2026-08-12T11:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_006_3",
+    "account_id": "acc_006",
+    "severity": "high",
+    "status": "open",
+    "created_at": "2026-09-15T20:19:43.272953+00:00",
+    "resolved_at": null
+  },
+  {
+    "ticket_id": "tkt_acc_006_4",
+    "account_id": "acc_006",
+    "severity": "critical",
+    "status": "resolved",
+    "created_at": "2026-07-29T09:19:43.272953+00:00",
+    "resolved_at": "2026-07-30T10:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_006_5",
+    "account_id": "acc_006",
+    "severity": "high",
+    "status": "resolved",
+    "created_at": "2026-07-21T21:19:43.272953+00:00",
+    "resolved_at": "2026-07-23T06:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_006_6",
+    "account_id": "acc_006",
+    "severity": "high",
+    "status": "resolved",
+    "created_at": "2026-07-03T03:19:43.272953+00:00",
+    "resolved_at": "2026-07-03T10:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_006_7",
+    "account_id": "acc_006",
+    "severity": "medium",
+    "status": "open",
+    "created_at": "2026-08-06T13:19:43.272953+00:00",
+    "resolved_at": null
+  },
+  {
+    "ticket_id": "tkt_acc_007_1",
+    "account_id": "acc_007",
+    "severity": "medium",
+    "status": "resolved",
+    "created_at": "2026-07-10T12:19:43.272953+00:00",
+    "resolved_at": "2026-07-12T03:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_007_2",
+    "account_id": "acc_007",
+    "severity": "low",
+    "status": "resolved",
+    "created_at": "2026-07-03T10:19:43.272953+00:00",
+    "resolved_at": "2026-07-03T22:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_007_3",
+    "account_id": "acc_007",
+    "severity": "high",
+    "status": "resolved",
+    "created_at": "2026-07-24T22:19:43.272953+00:00",
+    "resolved_at": "2026-07-26T14:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_008_1",
+    "account_id": "acc_008",
+    "severity": "low",
+    "status": "resolved",
+    "created_at": "2026-08-07T12:19:43.272953+00:00",
+    "resolved_at": "2026-08-08T09:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_009_1",
+    "account_id": "acc_009",
+    "severity": "medium",
+    "status": "resolved",
+    "created_at": "2026-07-08T12:19:43.272953+00:00",
+    "resolved_at": "2026-07-09T08:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_010_1",
+    "account_id": "acc_010",
+    "severity": "medium",
+    "status": "resolved",
+    "created_at": "2026-07-24T07:19:43.272953+00:00",
+    "resolved_at": "2026-07-26T00:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_010_2",
+    "account_id": "acc_010",
+    "severity": "medium",
+    "status": "open",
+    "created_at": "2026-08-12T13:19:43.272953+00:00",
+    "resolved_at": null
+  },
+  {
+    "ticket_id": "tkt_acc_010_3",
+    "account_id": "acc_010",
+    "severity": "critical",
+    "status": "resolved",
+    "created_at": "2026-09-17T00:19:43.272953+00:00",
+    "resolved_at": "2026-09-17T15:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_010_4",
+    "account_id": "acc_010",
+    "severity": "critical",
+    "status": "open",
+    "created_at": "2026-07-30T08:19:43.272953+00:00",
+    "resolved_at": null
+  },
+  {
+    "ticket_id": "tkt_acc_010_5",
+    "account_id": "acc_010",
+    "severity": "high",
+    "status": "resolved",
+    "created_at": "2026-07-06T08:19:43.272953+00:00",
+    "resolved_at": "2026-07-07T23:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_010_6",
+    "account_id": "acc_010",
+    "severity": "medium",
+    "status": "resolved",
+    "created_at": "2026-09-04T20:19:43.272953+00:00",
+    "resolved_at": "2026-09-05T20:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_010_7",
+    "account_id": "acc_010",
+    "severity": "medium",
+    "status": "resolved",
+    "created_at": "2026-09-15T03:19:43.272953+00:00",
+    "resolved_at": "2026-09-17T03:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_010_8",
+    "account_id": "acc_010",
+    "severity": "critical",
+    "status": "resolved",
+    "created_at": "2026-08-31T23:19:43.272953+00:00",
+    "resolved_at": "2026-09-03T05:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_011_1",
+    "account_id": "acc_011",
+    "severity": "high",
+    "status": "open",
+    "created_at": "2026-08-09T00:19:43.272953+00:00",
+    "resolved_at": null
+  },
+  {
+    "ticket_id": "tkt_acc_011_2",
+    "account_id": "acc_011",
+    "severity": "low",
+    "status": "resolved",
+    "created_at": "2026-08-27T18:19:43.272953+00:00",
+    "resolved_at": "2026-08-29T02:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_011_3",
+    "account_id": "acc_011",
+    "severity": "medium",
+    "status": "resolved",
+    "created_at": "2026-08-26T01:19:43.272953+00:00",
+    "resolved_at": "2026-08-27T01:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_012_1",
+    "account_id": "acc_012",
+    "severity": "high",
+    "status": "resolved",
+    "created_at": "2026-09-18T00:19:43.272953+00:00",
+    "resolved_at": "2026-09-19T12:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_013_1",
+    "account_id": "acc_013",
+    "severity": "high",
+    "status": "resolved",
+    "created_at": "2026-07-10T07:19:43.272953+00:00",
+    "resolved_at": "2026-07-12T00:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_013_2",
+    "account_id": "acc_013",
+    "severity": "low",
+    "status": "resolved",
+    "created_at": "2026-08-13T13:19:43.272953+00:00",
+    "resolved_at": "2026-08-15T07:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_014_1",
+    "account_id": "acc_014",
+    "severity": "high",
+    "status": "resolved",
+    "created_at": "2026-07-14T20:19:43.272953+00:00",
+    "resolved_at": "2026-07-16T03:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_015_1",
+    "account_id": "acc_015",
+    "severity": "medium",
+    "status": "resolved",
+    "created_at": "2026-08-18T21:19:43.272953+00:00",
+    "resolved_at": "2026-08-19T18:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_015_2",
+    "account_id": "acc_015",
+    "severity": "medium",
+    "status": "resolved",
+    "created_at": "2026-08-10T15:19:43.272953+00:00",
+    "resolved_at": "2026-08-12T06:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_016_1",
+    "account_id": "acc_016",
+    "severity": "low",
+    "status": "resolved",
+    "created_at": "2026-07-18T18:19:43.272953+00:00",
+    "resolved_at": "2026-07-18T20:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_016_2",
+    "account_id": "acc_016",
+    "severity": "low",
+    "status": "resolved",
+    "created_at": "2026-08-23T16:19:43.272953+00:00",
+    "resolved_at": "2026-08-24T11:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_016_3",
+    "account_id": "acc_016",
+    "severity": "low",
+    "status": "resolved",
+    "created_at": "2026-08-07T22:19:43.272953+00:00",
+    "resolved_at": "2026-08-09T22:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_017_1",
+    "account_id": "acc_017",
+    "severity": "medium",
+    "status": "resolved",
+    "created_at": "2026-09-10T08:19:43.272953+00:00",
+    "resolved_at": "2026-09-11T12:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_017_2",
+    "account_id": "acc_017",
+    "severity": "medium",
+    "status": "open",
+    "created_at": "2026-07-28T15:19:43.272953+00:00",
+    "resolved_at": null
+  },
+  {
+    "ticket_id": "tkt_acc_017_3",
+    "account_id": "acc_017",
+    "severity": "high",
+    "status": "resolved",
+    "created_at": "2026-08-26T20:19:43.272953+00:00",
+    "resolved_at": "2026-08-27T05:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_018_1",
+    "account_id": "acc_018",
+    "severity": "low",
+    "status": "resolved",
+    "created_at": "2026-08-16T02:19:43.272953+00:00",
+    "resolved_at": "2026-08-17T02:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_018_2",
+    "account_id": "acc_018",
+    "severity": "medium",
+    "status": "resolved",
+    "created_at": "2026-09-07T11:19:43.272953+00:00",
+    "resolved_at": "2026-09-07T15:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_019_1",
+    "account_id": "acc_019",
+    "severity": "high",
+    "status": "open",
+    "created_at": "2026-08-17T03:19:43.272953+00:00",
+    "resolved_at": null
+  },
+  {
+    "ticket_id": "tkt_acc_019_2",
+    "account_id": "acc_019",
+    "severity": "medium",
+    "status": "open",
+    "created_at": "2026-08-11T05:19:43.272953+00:00",
+    "resolved_at": null
+  },
+  {
+    "ticket_id": "tkt_acc_019_3",
+    "account_id": "acc_019",
+    "severity": "medium",
+    "status": "resolved",
+    "created_at": "2026-06-30T15:19:43.272953+00:00",
+    "resolved_at": "2026-07-02T12:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_019_4",
+    "account_id": "acc_019",
+    "severity": "high",
+    "status": "open",
+    "created_at": "2026-08-12T19:19:43.272953+00:00",
+    "resolved_at": null
+  },
+  {
+    "ticket_id": "tkt_acc_019_5",
+    "account_id": "acc_019",
+    "severity": "high",
+    "status": "resolved",
+    "created_at": "2026-07-15T21:19:43.272953+00:00",
+    "resolved_at": "2026-07-17T13:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_019_6",
+    "account_id": "acc_019",
+    "severity": "medium",
+    "status": "open",
+    "created_at": "2026-07-17T09:19:43.272953+00:00",
+    "resolved_at": null
+  },
+  {
+    "ticket_id": "tkt_acc_019_7",
+    "account_id": "acc_019",
+    "severity": "critical",
+    "status": "open",
+    "created_at": "2026-08-16T09:19:43.272953+00:00",
+    "resolved_at": null
+  },
+  {
+    "ticket_id": "tkt_acc_019_8",
+    "account_id": "acc_019",
+    "severity": "critical",
+    "status": "open",
+    "created_at": "2026-08-28T15:19:43.272953+00:00",
+    "resolved_at": null
+  },
+  {
+    "ticket_id": "tkt_acc_020_1",
+    "account_id": "acc_020",
+    "severity": "high",
+    "status": "open",
+    "created_at": "2026-08-27T03:19:43.272953+00:00",
+    "resolved_at": null
+  },
+  {
+    "ticket_id": "tkt_acc_020_2",
+    "account_id": "acc_020",
+    "severity": "high",
+    "status": "open",
+    "created_at": "2026-07-31T08:19:43.272953+00:00",
+    "resolved_at": null
+  },
+  {
+    "ticket_id": "tkt_acc_020_3",
+    "account_id": "acc_020",
+    "severity": "high",
+    "status": "resolved",
+    "created_at": "2026-08-20T13:19:43.272953+00:00",
+    "resolved_at": "2026-08-22T13:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_020_4",
+    "account_id": "acc_020",
+    "severity": "medium",
+    "status": "open",
+    "created_at": "2026-08-17T05:19:43.272953+00:00",
+    "resolved_at": null
+  },
+  {
+    "ticket_id": "tkt_acc_020_5",
+    "account_id": "acc_020",
+    "severity": "high",
+    "status": "resolved",
+    "created_at": "2026-07-19T06:19:43.272953+00:00",
+    "resolved_at": "2026-07-20T14:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_020_6",
+    "account_id": "acc_020",
+    "severity": "high",
+    "status": "resolved",
+    "created_at": "2026-08-24T18:19:43.272953+00:00",
+    "resolved_at": "2026-08-26T01:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_020_7",
+    "account_id": "acc_020",
+    "severity": "high",
+    "status": "resolved",
+    "created_at": "2026-09-21T13:19:43.272953+00:00",
+    "resolved_at": "2026-09-21T16:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_020_8",
+    "account_id": "acc_020",
+    "severity": "critical",
+    "status": "open",
+    "created_at": "2026-07-19T08:19:43.272953+00:00",
+    "resolved_at": null
+  },
+  {
+    "ticket_id": "tkt_acc_021_1",
+    "account_id": "acc_021",
+    "severity": "high",
+    "status": "resolved",
+    "created_at": "2026-09-09T21:19:43.272953+00:00",
+    "resolved_at": "2026-09-11T17:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_021_2",
+    "account_id": "acc_021",
+    "severity": "medium",
+    "status": "resolved",
+    "created_at": "2026-07-23T20:19:43.272953+00:00",
+    "resolved_at": "2026-07-25T05:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_022_1",
+    "account_id": "acc_022",
+    "severity": "high",
+    "status": "resolved",
+    "created_at": "2026-07-05T18:19:43.272953+00:00",
+    "resolved_at": "2026-07-06T08:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_022_2",
+    "account_id": "acc_022",
+    "severity": "high",
+    "status": "resolved",
+    "created_at": "2026-09-07T10:19:43.272953+00:00",
+    "resolved_at": "2026-09-08T01:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_023_1",
+    "account_id": "acc_023",
+    "severity": "high",
+    "status": "resolved",
+    "created_at": "2026-07-03T16:19:43.272953+00:00",
+    "resolved_at": "2026-07-04T04:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_023_2",
+    "account_id": "acc_023",
+    "severity": "low",
+    "status": "resolved",
+    "created_at": "2026-07-16T18:19:43.272953+00:00",
+    "resolved_at": "2026-07-18T12:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_023_3",
+    "account_id": "acc_023",
+    "severity": "high",
+    "status": "resolved",
+    "created_at": "2026-07-24T08:19:43.272953+00:00",
+    "resolved_at": "2026-07-25T19:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_024_1",
+    "account_id": "acc_024",
+    "severity": "high",
+    "status": "resolved",
+    "created_at": "2026-07-05T01:19:43.272953+00:00",
+    "resolved_at": "2026-07-05T14:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_024_2",
+    "account_id": "acc_024",
+    "severity": "medium",
+    "status": "resolved",
+    "created_at": "2026-08-08T03:19:43.272953+00:00",
+    "resolved_at": "2026-08-09T02:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_024_3",
+    "account_id": "acc_024",
+    "severity": "low",
+    "status": "resolved",
+    "created_at": "2026-07-16T05:19:43.272953+00:00",
+    "resolved_at": "2026-07-16T21:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_025_1",
+    "account_id": "acc_025",
+    "severity": "medium",
+    "status": "resolved",
+    "created_at": "2026-07-19T08:19:43.272953+00:00",
+    "resolved_at": "2026-07-20T23:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_025_2",
+    "account_id": "acc_025",
+    "severity": "critical",
+    "status": "open",
+    "created_at": "2026-09-13T10:19:43.272953+00:00",
+    "resolved_at": null
+  },
+  {
+    "ticket_id": "tkt_acc_025_3",
+    "account_id": "acc_025",
+    "severity": "high",
+    "status": "open",
+    "created_at": "2026-08-19T20:19:43.272953+00:00",
+    "resolved_at": null
+  },
+  {
+    "ticket_id": "tkt_acc_025_4",
+    "account_id": "acc_025",
+    "severity": "high",
+    "status": "resolved",
+    "created_at": "2026-07-05T13:19:43.272953+00:00",
+    "resolved_at": "2026-07-06T15:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_025_5",
+    "account_id": "acc_025",
+    "severity": "high",
+    "status": "open",
+    "created_at": "2026-07-28T13:19:43.272953+00:00",
+    "resolved_at": null
+  },
+  {
+    "ticket_id": "tkt_acc_025_6",
+    "account_id": "acc_025",
+    "severity": "high",
+    "status": "resolved",
+    "created_at": "2026-09-20T05:19:43.272953+00:00",
+    "resolved_at": "2026-09-20T16:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_025_7",
+    "account_id": "acc_025",
+    "severity": "high",
+    "status": "open",
+    "created_at": "2026-07-03T01:19:43.272953+00:00",
+    "resolved_at": null
+  },
+  {
+    "ticket_id": "tkt_acc_025_8",
+    "account_id": "acc_025",
+    "severity": "high",
+    "status": "resolved",
+    "created_at": "2026-09-17T09:19:43.272953+00:00",
+    "resolved_at": "2026-09-18T00:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_025_9",
+    "account_id": "acc_025",
+    "severity": "medium",
+    "status": "open",
+    "created_at": "2026-07-10T19:19:43.272953+00:00",
+    "resolved_at": null
+  },
+  {
+    "ticket_id": "tkt_acc_025_10",
+    "account_id": "acc_025",
+    "severity": "medium",
+    "status": "resolved",
+    "created_at": "2026-09-01T06:19:43.272953+00:00",
+    "resolved_at": "2026-09-02T23:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_026_1",
+    "account_id": "acc_026",
+    "severity": "critical",
+    "status": "open",
+    "created_at": "2026-07-02T15:19:43.272953+00:00",
+    "resolved_at": null
+  },
+  {
+    "ticket_id": "tkt_acc_026_2",
+    "account_id": "acc_026",
+    "severity": "high",
+    "status": "resolved",
+    "created_at": "2026-09-19T01:19:43.272953+00:00",
+    "resolved_at": "2026-09-19T15:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_026_3",
+    "account_id": "acc_026",
+    "severity": "high",
+    "status": "open",
+    "created_at": "2026-07-10T13:19:43.272953+00:00",
+    "resolved_at": null
+  },
+  {
+    "ticket_id": "tkt_acc_026_4",
+    "account_id": "acc_026",
+    "severity": "medium",
+    "status": "open",
+    "created_at": "2026-09-18T00:19:43.272953+00:00",
+    "resolved_at": null
+  },
+  {
+    "ticket_id": "tkt_acc_026_5",
+    "account_id": "acc_026",
+    "severity": "critical",
+    "status": "resolved",
+    "created_at": "2026-08-10T16:19:43.272953+00:00",
+    "resolved_at": "2026-08-12T05:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_026_6",
+    "account_id": "acc_026",
+    "severity": "critical",
+    "status": "open",
+    "created_at": "2026-09-11T01:19:43.272953+00:00",
+    "resolved_at": null
+  },
+  {
+    "ticket_id": "tkt_acc_026_7",
+    "account_id": "acc_026",
+    "severity": "high",
+    "status": "open",
+    "created_at": "2026-09-22T10:19:43.272953+00:00",
+    "resolved_at": null
+  },
+  {
+    "ticket_id": "tkt_acc_026_8",
+    "account_id": "acc_026",
+    "severity": "high",
+    "status": "resolved",
+    "created_at": "2026-08-05T18:19:43.272953+00:00",
+    "resolved_at": "2026-08-06T16:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_026_9",
+    "account_id": "acc_026",
+    "severity": "medium",
+    "status": "open",
+    "created_at": "2026-08-04T05:19:43.272953+00:00",
+    "resolved_at": null
+  },
+  {
+    "ticket_id": "tkt_acc_027_1",
+    "account_id": "acc_027",
+    "severity": "low",
+    "status": "resolved",
+    "created_at": "2026-09-14T23:19:43.272953+00:00",
+    "resolved_at": "2026-09-15T20:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_027_2",
+    "account_id": "acc_027",
+    "severity": "high",
+    "status": "resolved",
+    "created_at": "2026-06-29T19:19:43.272953+00:00",
+    "resolved_at": "2026-07-01T16:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_027_3",
+    "account_id": "acc_027",
+    "severity": "low",
+    "status": "resolved",
+    "created_at": "2026-09-19T15:19:43.272953+00:00",
+    "resolved_at": "2026-09-20T12:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_028_1",
+    "account_id": "acc_028",
+    "severity": "high",
+    "status": "resolved",
+    "created_at": "2026-09-09T06:19:43.272953+00:00",
+    "resolved_at": "2026-09-10T02:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_029_1",
+    "account_id": "acc_029",
+    "severity": "low",
+    "status": "resolved",
+    "created_at": "2026-08-05T13:19:43.272953+00:00",
+    "resolved_at": "2026-08-06T09:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_029_2",
+    "account_id": "acc_029",
+    "severity": "high",
+    "status": "open",
+    "created_at": "2026-09-07T07:19:43.272953+00:00",
+    "resolved_at": null
+  },
+  {
+    "ticket_id": "tkt_acc_030_1",
+    "account_id": "acc_030",
+    "severity": "medium",
+    "status": "resolved",
+    "created_at": "2026-07-04T06:19:43.272953+00:00",
+    "resolved_at": "2026-07-05T11:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_030_2",
+    "account_id": "acc_030",
+    "severity": "critical",
+    "status": "open",
+    "created_at": "2026-08-22T17:19:43.272953+00:00",
+    "resolved_at": null
+  },
+  {
+    "ticket_id": "tkt_acc_030_3",
+    "account_id": "acc_030",
+    "severity": "medium",
+    "status": "resolved",
+    "created_at": "2026-09-22T13:19:43.272953+00:00",
+    "resolved_at": "2026-09-23T03:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_030_4",
+    "account_id": "acc_030",
+    "severity": "medium",
+    "status": "open",
+    "created_at": "2026-08-06T03:19:43.272953+00:00",
+    "resolved_at": null
+  },
+  {
+    "ticket_id": "tkt_acc_030_5",
+    "account_id": "acc_030",
+    "severity": "high",
+    "status": "open",
+    "created_at": "2026-07-31T11:19:43.272953+00:00",
+    "resolved_at": null
+  },
+  {
+    "ticket_id": "tkt_acc_030_6",
+    "account_id": "acc_030",
+    "severity": "medium",
+    "status": "open",
+    "created_at": "2026-07-10T21:19:43.272953+00:00",
+    "resolved_at": null
+  },
+  {
+    "ticket_id": "tkt_acc_030_7",
+    "account_id": "acc_030",
+    "severity": "medium",
+    "status": "open",
+    "created_at": "2026-08-23T12:19:43.272953+00:00",
+    "resolved_at": null
+  },
+  {
+    "ticket_id": "tkt_acc_030_8",
+    "account_id": "acc_030",
+    "severity": "high",
+    "status": "resolved",
+    "created_at": "2026-08-28T11:19:43.272953+00:00",
+    "resolved_at": "2026-08-28T19:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_031_1",
+    "account_id": "acc_031",
+    "severity": "low",
+    "status": "resolved",
+    "created_at": "2026-07-14T08:19:43.272953+00:00",
+    "resolved_at": "2026-07-15T05:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_031_2",
+    "account_id": "acc_031",
+    "severity": "high",
+    "status": "resolved",
+    "created_at": "2026-08-17T23:19:43.272953+00:00",
+    "resolved_at": "2026-08-18T22:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_031_3",
+    "account_id": "acc_031",
+    "severity": "low",
+    "status": "resolved",
+    "created_at": "2026-08-08T06:19:43.272953+00:00",
+    "resolved_at": "2026-08-09T06:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_032_1",
+    "account_id": "acc_032",
+    "severity": "low",
+    "status": "resolved",
+    "created_at": "2026-09-26T16:19:43.272953+00:00",
+    "resolved_at": "2026-09-28T16:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_032_2",
+    "account_id": "acc_032",
+    "severity": "low",
+    "status": "resolved",
+    "created_at": "2026-07-07T09:19:43.272953+00:00",
+    "resolved_at": "2026-07-08T02:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_033_1",
+    "account_id": "acc_033",
+    "severity": "high",
+    "status": "resolved",
+    "created_at": "2026-09-10T09:19:43.272953+00:00",
+    "resolved_at": "2026-09-11T11:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_034_1",
+    "account_id": "acc_034",
+    "severity": "high",
+    "status": "open",
+    "created_at": "2026-09-17T15:19:43.272953+00:00",
+    "resolved_at": null
+  },
+  {
+    "ticket_id": "tkt_acc_034_2",
+    "account_id": "acc_034",
+    "severity": "high",
+    "status": "open",
+    "created_at": "2026-07-27T18:19:43.272953+00:00",
+    "resolved_at": null
+  },
+  {
+    "ticket_id": "tkt_acc_034_3",
+    "account_id": "acc_034",
+    "severity": "critical",
+    "status": "open",
+    "created_at": "2026-07-27T22:19:43.272953+00:00",
+    "resolved_at": null
+  },
+  {
+    "ticket_id": "tkt_acc_034_4",
+    "account_id": "acc_034",
+    "severity": "critical",
+    "status": "open",
+    "created_at": "2026-09-16T10:19:43.272953+00:00",
+    "resolved_at": null
+  },
+  {
+    "ticket_id": "tkt_acc_034_5",
+    "account_id": "acc_034",
+    "severity": "high",
+    "status": "open",
+    "created_at": "2026-07-31T07:19:43.272953+00:00",
+    "resolved_at": null
+  },
+  {
+    "ticket_id": "tkt_acc_034_6",
+    "account_id": "acc_034",
+    "severity": "medium",
+    "status": "open",
+    "created_at": "2026-06-30T11:19:43.272953+00:00",
+    "resolved_at": null
+  },
+  {
+    "ticket_id": "tkt_acc_034_7",
+    "account_id": "acc_034",
+    "severity": "critical",
+    "status": "resolved",
+    "created_at": "2026-07-18T22:19:43.272953+00:00",
+    "resolved_at": "2026-07-21T19:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_034_8",
+    "account_id": "acc_034",
+    "severity": "medium",
+    "status": "resolved",
+    "created_at": "2026-07-22T10:19:43.272953+00:00",
+    "resolved_at": "2026-07-22T18:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_034_9",
+    "account_id": "acc_034",
+    "severity": "critical",
+    "status": "open",
+    "created_at": "2026-07-03T23:19:43.272953+00:00",
+    "resolved_at": null
+  },
+  {
+    "ticket_id": "tkt_acc_035_1",
+    "account_id": "acc_035",
+    "severity": "high",
+    "status": "resolved",
+    "created_at": "2026-09-23T15:19:43.272953+00:00",
+    "resolved_at": "2026-09-24T23:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_036_1",
+    "account_id": "acc_036",
+    "severity": "medium",
+    "status": "open",
+    "created_at": "2026-09-23T09:19:43.272953+00:00",
+    "resolved_at": null
+  },
+  {
+    "ticket_id": "tkt_acc_036_2",
+    "account_id": "acc_036",
+    "severity": "critical",
+    "status": "open",
+    "created_at": "2026-08-27T20:19:43.272953+00:00",
+    "resolved_at": null
+  },
+  {
+    "ticket_id": "tkt_acc_036_3",
+    "account_id": "acc_036",
+    "severity": "critical",
+    "status": "resolved",
+    "created_at": "2026-07-02T16:19:43.272953+00:00",
+    "resolved_at": "2026-07-03T10:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_036_4",
+    "account_id": "acc_036",
+    "severity": "medium",
+    "status": "open",
+    "created_at": "2026-07-19T09:19:43.272953+00:00",
+    "resolved_at": null
+  },
+  {
+    "ticket_id": "tkt_acc_036_5",
+    "account_id": "acc_036",
+    "severity": "critical",
+    "status": "open",
+    "created_at": "2026-07-21T20:19:43.272953+00:00",
+    "resolved_at": null
+  },
+  {
+    "ticket_id": "tkt_acc_036_6",
+    "account_id": "acc_036",
+    "severity": "high",
+    "status": "open",
+    "created_at": "2026-07-10T08:19:43.272953+00:00",
+    "resolved_at": null
+  },
+  {
+    "ticket_id": "tkt_acc_036_7",
+    "account_id": "acc_036",
+    "severity": "medium",
+    "status": "open",
+    "created_at": "2026-08-20T11:19:43.272953+00:00",
+    "resolved_at": null
+  },
+  {
+    "ticket_id": "tkt_acc_036_8",
+    "account_id": "acc_036",
+    "severity": "high",
+    "status": "resolved",
+    "created_at": "2026-06-29T12:19:43.272953+00:00",
+    "resolved_at": "2026-06-30T14:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_036_9",
+    "account_id": "acc_036",
+    "severity": "high",
+    "status": "open",
+    "created_at": "2026-09-14T07:19:43.272953+00:00",
+    "resolved_at": null
+  },
+  {
+    "ticket_id": "tkt_acc_036_10",
+    "account_id": "acc_036",
+    "severity": "high",
+    "status": "open",
+    "created_at": "2026-08-31T20:19:43.272953+00:00",
+    "resolved_at": null
+  },
+  {
+    "ticket_id": "tkt_acc_037_1",
+    "account_id": "acc_037",
+    "severity": "low",
+    "status": "resolved",
+    "created_at": "2026-08-02T20:19:43.272953+00:00",
+    "resolved_at": "2026-08-04T10:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_037_2",
+    "account_id": "acc_037",
+    "severity": "medium",
+    "status": "open",
+    "created_at": "2026-08-15T02:19:43.272953+00:00",
+    "resolved_at": null
+  },
+  {
+    "ticket_id": "tkt_acc_038_1",
+    "account_id": "acc_038",
+    "severity": "low",
+    "status": "resolved",
+    "created_at": "2026-07-09T06:19:43.272953+00:00",
+    "resolved_at": "2026-07-10T20:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_038_2",
+    "account_id": "acc_038",
+    "severity": "medium",
+    "status": "resolved",
+    "created_at": "2026-08-11T15:19:43.272953+00:00",
+    "resolved_at": "2026-08-12T03:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_038_3",
+    "account_id": "acc_038",
+    "severity": "low",
+    "status": "open",
+    "created_at": "2026-09-22T12:19:43.272953+00:00",
+    "resolved_at": null
+  },
+  {
+    "ticket_id": "tkt_acc_038_4",
+    "account_id": "acc_038",
+    "severity": "high",
+    "status": "resolved",
+    "created_at": "2026-08-25T12:19:43.272953+00:00",
+    "resolved_at": "2026-08-26T09:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_039_1",
+    "account_id": "acc_039",
+    "severity": "low",
+    "status": "resolved",
+    "created_at": "2026-07-06T06:19:43.272953+00:00",
+    "resolved_at": "2026-07-06T09:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_039_2",
+    "account_id": "acc_039",
+    "severity": "low",
+    "status": "open",
+    "created_at": "2026-07-10T16:19:43.272953+00:00",
+    "resolved_at": null
+  },
+  {
+    "ticket_id": "tkt_acc_040_1",
+    "account_id": "acc_040",
+    "severity": "medium",
+    "status": "resolved",
+    "created_at": "2026-07-17T11:19:43.272953+00:00",
+    "resolved_at": "2026-07-18T09:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_040_2",
+    "account_id": "acc_040",
+    "severity": "low",
+    "status": "resolved",
+    "created_at": "2026-08-31T06:19:43.272953+00:00",
+    "resolved_at": "2026-09-01T16:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_040_3",
+    "account_id": "acc_040",
+    "severity": "low",
+    "status": "resolved",
+    "created_at": "2026-08-04T00:19:43.272953+00:00",
+    "resolved_at": "2026-08-05T19:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_040_4",
+    "account_id": "acc_040",
+    "severity": "high",
+    "status": "resolved",
+    "created_at": "2026-09-26T17:19:43.272953+00:00",
+    "resolved_at": "2026-09-27T01:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_041_1",
+    "account_id": "acc_041",
+    "severity": "low",
+    "status": "resolved",
+    "created_at": "2026-08-06T20:19:43.272953+00:00",
+    "resolved_at": "2026-08-08T13:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_042_1",
+    "account_id": "acc_042",
+    "severity": "medium",
+    "status": "resolved",
+    "created_at": "2026-07-27T14:19:43.272953+00:00",
+    "resolved_at": "2026-07-29T09:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_042_2",
+    "account_id": "acc_042",
+    "severity": "medium",
+    "status": "open",
+    "created_at": "2026-07-12T07:19:43.272953+00:00",
+    "resolved_at": null
+  },
+  {
+    "ticket_id": "tkt_acc_042_3",
+    "account_id": "acc_042",
+    "severity": "critical",
+    "status": "open",
+    "created_at": "2026-08-14T05:19:43.272953+00:00",
+    "resolved_at": null
+  },
+  {
+    "ticket_id": "tkt_acc_042_4",
+    "account_id": "acc_042",
+    "severity": "high",
+    "status": "open",
+    "created_at": "2026-07-19T05:19:43.272953+00:00",
+    "resolved_at": null
+  },
+  {
+    "ticket_id": "tkt_acc_042_5",
+    "account_id": "acc_042",
+    "severity": "high",
+    "status": "open",
+    "created_at": "2026-07-19T03:19:43.272953+00:00",
+    "resolved_at": null
+  },
+  {
+    "ticket_id": "tkt_acc_042_6",
+    "account_id": "acc_042",
+    "severity": "medium",
+    "status": "open",
+    "created_at": "2026-08-06T02:19:43.272953+00:00",
+    "resolved_at": null
+  },
+  {
+    "ticket_id": "tkt_acc_042_7",
+    "account_id": "acc_042",
+    "severity": "high",
+    "status": "resolved",
+    "created_at": "2026-07-27T13:19:43.272953+00:00",
+    "resolved_at": "2026-07-28T20:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_042_8",
+    "account_id": "acc_042",
+    "severity": "high",
+    "status": "resolved",
+    "created_at": "2026-08-31T15:19:43.272953+00:00",
+    "resolved_at": "2026-09-01T01:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_043_1",
+    "account_id": "acc_043",
+    "severity": "medium",
+    "status": "resolved",
+    "created_at": "2026-09-24T02:19:43.272953+00:00",
+    "resolved_at": "2026-09-24T22:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_044_1",
+    "account_id": "acc_044",
+    "severity": "high",
+    "status": "resolved",
+    "created_at": "2026-09-01T11:19:43.272953+00:00",
+    "resolved_at": "2026-09-02T09:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_044_2",
+    "account_id": "acc_044",
+    "severity": "low",
+    "status": "resolved",
+    "created_at": "2026-09-16T23:19:43.272953+00:00",
+    "resolved_at": "2026-09-17T23:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_045_1",
+    "account_id": "acc_045",
+    "severity": "low",
+    "status": "resolved",
+    "created_at": "2026-09-02T21:19:43.272953+00:00",
+    "resolved_at": "2026-09-03T01:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_045_2",
+    "account_id": "acc_045",
+    "severity": "medium",
+    "status": "resolved",
+    "created_at": "2026-07-12T14:19:43.272953+00:00",
+    "resolved_at": "2026-07-13T23:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_045_3",
+    "account_id": "acc_045",
+    "severity": "low",
+    "status": "resolved",
+    "created_at": "2026-08-15T20:19:43.272953+00:00",
+    "resolved_at": "2026-08-17T17:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_046_1",
+    "account_id": "acc_046",
+    "severity": "low",
+    "status": "resolved",
+    "created_at": "2026-08-18T21:19:43.272953+00:00",
+    "resolved_at": "2026-08-19T23:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_046_2",
+    "account_id": "acc_046",
+    "severity": "low",
+    "status": "resolved",
+    "created_at": "2026-09-23T19:19:43.272953+00:00",
+    "resolved_at": "2026-09-24T02:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_046_3",
+    "account_id": "acc_046",
+    "severity": "high",
+    "status": "resolved",
+    "created_at": "2026-09-16T03:19:43.272953+00:00",
+    "resolved_at": "2026-09-16T10:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_047_1",
+    "account_id": "acc_047",
+    "severity": "low",
+    "status": "resolved",
+    "created_at": "2026-08-30T11:19:43.272953+00:00",
+    "resolved_at": "2026-08-31T14:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_047_2",
+    "account_id": "acc_047",
+    "severity": "high",
+    "status": "resolved",
+    "created_at": "2026-07-15T01:19:43.272953+00:00",
+    "resolved_at": "2026-07-16T12:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_047_3",
+    "account_id": "acc_047",
+    "severity": "high",
+    "status": "resolved",
+    "created_at": "2026-08-23T05:19:43.272953+00:00",
+    "resolved_at": "2026-08-23T07:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_048_1",
+    "account_id": "acc_048",
+    "severity": "medium",
+    "status": "resolved",
+    "created_at": "2026-09-10T12:19:43.272953+00:00",
+    "resolved_at": "2026-09-11T10:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_048_2",
+    "account_id": "acc_048",
+    "severity": "low",
+    "status": "resolved",
+    "created_at": "2026-09-08T12:19:43.272953+00:00",
+    "resolved_at": "2026-09-09T08:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_048_3",
+    "account_id": "acc_048",
+    "severity": "low",
+    "status": "resolved",
+    "created_at": "2026-07-05T11:19:43.272953+00:00",
+    "resolved_at": "2026-07-07T09:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_048_4",
+    "account_id": "acc_048",
+    "severity": "low",
+    "status": "resolved",
+    "created_at": "2026-08-23T07:19:43.272953+00:00",
+    "resolved_at": "2026-08-24T10:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_049_1",
+    "account_id": "acc_049",
+    "severity": "high",
+    "status": "resolved",
+    "created_at": "2026-09-03T07:19:43.272953+00:00",
+    "resolved_at": "2026-09-04T10:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_049_2",
+    "account_id": "acc_049",
+    "severity": "medium",
+    "status": "resolved",
+    "created_at": "2026-09-08T12:19:43.272953+00:00",
+    "resolved_at": "2026-09-09T19:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_050_1",
+    "account_id": "acc_050",
+    "severity": "high",
+    "status": "resolved",
+    "created_at": "2026-08-24T20:19:43.272953+00:00",
+    "resolved_at": "2026-08-26T00:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_050_2",
+    "account_id": "acc_050",
+    "severity": "critical",
+    "status": "open",
+    "created_at": "2026-08-31T08:19:43.272953+00:00",
+    "resolved_at": null
+  },
+  {
+    "ticket_id": "tkt_acc_050_3",
+    "account_id": "acc_050",
+    "severity": "medium",
+    "status": "open",
+    "created_at": "2026-07-04T05:19:43.272953+00:00",
+    "resolved_at": null
+  },
+  {
+    "ticket_id": "tkt_acc_050_4",
+    "account_id": "acc_050",
+    "severity": "medium",
+    "status": "open",
+    "created_at": "2026-09-05T00:19:43.272953+00:00",
+    "resolved_at": null
+  },
+  {
+    "ticket_id": "tkt_acc_050_5",
+    "account_id": "acc_050",
+    "severity": "high",
+    "status": "resolved",
+    "created_at": "2026-09-07T20:19:43.272953+00:00",
+    "resolved_at": "2026-09-09T05:19:43.272953+00:00"
+  },
+  {
+    "ticket_id": "tkt_acc_050_6",
+    "account_id": "acc_050",
+    "severity": "critical",
+    "status": "open",
+    "created_at": "2026-08-17T18:19:43.272953+00:00",
+    "resolved_at": null
+  },
+  {
+    "ticket_id": "tkt_acc_050_7",
+    "account_id": "acc_050",
+    "severity": "high",
+    "status": "open",
+    "created_at": "2026-07-12T00:19:43.272953+00:00",
+    "resolved_at": null
+  },
+  {
+    "ticket_id": "tkt_acc_050_8",
+    "account_id": "acc_050",
+    "severity": "medium",
+    "status": "resolved",
+    "created_at": "2026-07-11T01:19:43.272953+00:00",
+    "resolved_at": "2026-07-11T12:19:43.272953+00:00"
+  }
+]
