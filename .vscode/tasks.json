@@ -1,0 +1,39 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Start FastAPI Backend",
+      "type": "shell",
+      "command": "python -m uvicorn backend.app.main:app --reload --port 8000",
+      "problemMatcher": [],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      }
+    },
+    {
+      "label": "Start React Frontend",
+      "type": "shell",
+      "command": "npm --prefix frontend run dev",
+      "problemMatcher": []
+    },
+    {
+      "label": "Run Medallion Warehouse Pipeline",
+      "type": "shell",
+      "command": "python warehouse/pipeline.py",
+      "problemMatcher": []
+    },
+    {
+      "label": "Run Data Quality Suite",
+      "type": "shell",
+      "command": "python warehouse/data_quality.py",
+      "problemMatcher": []
+    },
+    {
+      "label": "Simulate Live Telemetry Burst",
+      "type": "shell",
+      "command": "python streaming/producer.py --burst 25",
+      "problemMatcher": []
+    }
+  ]
+}
